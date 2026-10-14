@@ -1,0 +1,9 @@
+[
+  {
+    "AllowedOrigins": ["https://ads.creativeinternationalbd.com"],
+    "AllowedMethods": ["PUT"],
+    "AllowedHeaders": ["*"],
+    "ExposeHeaders": ["ETag"],
+    "MaxAgeSeconds": 3600
+  }
+]
